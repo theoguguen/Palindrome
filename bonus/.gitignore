@@ -1,0 +1,5 @@
+*.o
+palindrome
+libmy.a
+*.a
+.vscode
