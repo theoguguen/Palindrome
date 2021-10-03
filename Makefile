@@ -9,7 +9,6 @@ SRCDIR	=	src/
 
 SRC	=	$(SRCDIR)main.c				\
 		$(SRCDIR)arg.c				\
-		requirement.c				\
 		$(SRCDIR)help.c				\
 		$(SRCDIR)palindrome.c		\
 		$(SRCDIR)my_int_reverser.c	\
